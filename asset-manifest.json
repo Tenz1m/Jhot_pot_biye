@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jhot_pot_biye/static/css/main.073c9b0a.css",
+    "main.js": "/Jhot_pot_biye/static/js/main.57d68546.js",
+    "static/js/787.5a126a11.chunk.js": "/Jhot_pot_biye/static/js/787.5a126a11.chunk.js",
+    "index.html": "/Jhot_pot_biye/index.html",
+    "main.073c9b0a.css.map": "/Jhot_pot_biye/static/css/main.073c9b0a.css.map",
+    "main.57d68546.js.map": "/Jhot_pot_biye/static/js/main.57d68546.js.map",
+    "787.5a126a11.chunk.js.map": "/Jhot_pot_biye/static/js/787.5a126a11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.57d68546.js"
+  ]
+}
